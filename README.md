@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial intelligence projects**
 
-- 📝 I regularly write articles on [Neural Networks, Mathematical Modelling](Neural Networks, Mathematical Modelling)
+- 📝 I regularly write articles on [Neural Networks, Mathematical Modelling]
 
 - 💬 Ask me about **react, machine learning**
 
