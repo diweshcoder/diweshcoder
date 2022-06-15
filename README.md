@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diwesh Prashar</h1>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Diwesh Prashar</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diweshcoder&label=Profile%20views&color=0e75b6&style=flat" alt="diweshcoder" /> </p>
