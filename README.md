@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diweshcoder" alt="diweshcoder" /></a> </p>
 
-- 🌱 I’m currently learning **Neural Network and complex mathematical modelling**
+- 🌱 I’m currently learning **Neptune Planet 9 Designed Application Using HTML, CSS, JAVASCRIPT, NODE JS**
 
 - 👯 I’m looking to collaborate on **Artificial intelligence projects**
-
-- 📝 I regularly write articles on [Neural Networks, Mathematical Modelling]
 
 - 💬 Ask me about **react, machine learning**
 
